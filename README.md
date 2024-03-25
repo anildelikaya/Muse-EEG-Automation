@@ -95,3 +95,5 @@ Contributions are welcome! Please submit pull requests for enhancements.
 ## License
 
 MIT License - [Anıl Berk Delikaya]
+
+https://github.com/anildelikaya/Muse-EEG-Automation/assets/48909776/d57a7235-29ad-454a-989f-d3dada5f8c85
