@@ -14,7 +14,7 @@ The script automates the transformation of raw EEG data into meaningful metrics 
 - **Heart Rate Variability (HRV):** Displaying HRV over time as an indicator of physiological stress and emotional regulation.
 
 ## Project Structure
-
+```bash
 project_root/
 │
 ├── data/
@@ -32,6 +32,7 @@ project_root/
 ├── credentials/
 │ └── google_api_credentials.json # Credentials for Google Sheets API
 └── README.md # This documentation file
+```
 
 
 ## Setup Instructions
