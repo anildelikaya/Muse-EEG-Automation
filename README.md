@@ -1,6 +1,6 @@
 # Muse headband EEG Data Automation and  Visualization 
 
-A Python-based automation tool for processing EEG data from Muse headbands, transforming it into cognitive metrics for creativity, relaxation, and awareness. The processed data is uploaded to Google Sheets, enabling easy visualization and analysis in Looker Studio. This project simplifies the workflow for researchers and enthusiasts working with EEG data, providing insights into brain activity patterns and cognitive states.
+A Python-based automation tool for processing EEG data from Muse headbands, transforming it into cognitive metrics for creativity, relaxation, and awareness using QEEG (Quantitative Electroencephalography) literature. The processed data is uploaded to Google Sheets, enabling easy visualization and analysis in Looker Studio. This project simplifies the workflow for researchers and enthusiasts working with EEG data, providing insights into brain activity patterns and cognitive states.
 
 This project facilitates the visualization of cognitive metrics by processing EEG data from Muse headband CSV files and uploading the processed data to Google Sheets. The data is then visualized using Looker Studio, offering insights into various cognitive states such as creativity, relaxation, inward and outward awareness, and displaying EEG frequency powers and Heart Rate Variability (HRV) over time.
 
